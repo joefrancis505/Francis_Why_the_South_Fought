@@ -1,0 +1,232 @@
+===============================
+TABLE 1: Mean Wealth, 1860 (White Men/Women, All Households, Age 18+) 
+===============================
+
+
+Region                 Men   Women   Households
+-------------------  -----  ------  -----------
+United States         2302     249          772
+North                 1822     164          553
+Northeast             1911     186          587
+New England           1764     179          596
+Middle Atlantic       1977     190          582
+Midwest               1716     133          512
+East North Central    1714     127          504
+West North Central    1722     154          540
+South                 3890     515         1410
+South Atlantic        3629     497         1283
+East South Central    4183     522         1524
+West South Central    3982     560         1548
+West                  1170     110          551
+Mountain               602      45          189
+Pacific               1280     141          648
+
+
+===============================
+TABLE 2: Median Wealth, 1860 (White Men/Women, All Households, Age 18+) 
+===============================
+
+
+Region                Men   Women   Households
+-------------------  ----  ------  -----------
+United States         150       0          155
+North                 150       0          158
+Northeast             100       0          133
+New England           100       0          175
+Middle Atlantic       100       0          114
+Midwest               250       0          185
+East North Central    240       0          188
+West North Central    300       0          179
+South                 200       0          156
+South Atlantic        130       0          120
+East South Central    300       0          197
+West South Central    250       0          188
+West                    0       0           83
+Mountain                0       0           38
+Pacific                 0       0          120
+
+
+===============================
+TABLE 3: Gini Coefficients for Wealth, 1860 (White Men/Women, All Households, Age 18+) 
+===============================
+
+
+Region                  Men   Women   Households
+-------------------  ------  ------  -----------
+United States         0.854   0.983        0.805
+North                 0.830   0.982        0.748
+Northeast             0.850   0.983        0.773
+New England           0.834   0.980        0.752
+Middle Atlantic       0.856   0.984        0.782
+Midwest               0.800   0.981        0.711
+East North Central    0.798   0.981        0.702
+West North Central    0.808   0.982        0.737
+South                 0.873   0.980        0.851
+South Atlantic        0.875   0.978        0.855
+East South Central    0.867   0.979        0.841
+West South Central    0.880   0.983        0.857
+West                  0.870   0.982        0.811
+Mountain              0.869   0.978        0.831
+Pacific               0.865   0.980        0.791
+
+
+===============================
+TABLE 4: Incarceration Rates for Adult Men by Race and Region (Age 18+) 
+===============================
+
+
+Region                White (native) (%)   White (immigrant) (%)   White (total) (%)   Black (%)
+-------------------  -------------------  ----------------------  ------------------  ----------
+United States                      0.162                   0.325               0.204       0.772
+North                              0.183                   0.320               0.223       1.096
+Northeast                          0.211                   0.425               0.274       1.205
+New England                        0.186                   0.482               0.247       1.469
+Middle Atlantic                    0.225                   0.409               0.287       1.152
+Midwest                            0.148                   0.191               0.161       0.857
+East North Central                 0.161                   0.193               0.171       0.830
+West North Central                 0.105                   0.185               0.129       1.064
+South                              0.117                   0.395               0.149       0.472
+South Atlantic                     0.088                   0.338               0.113       0.331
+East South Central                 0.133                   0.444               0.160       0.457
+West South Central                 0.168                   0.424               0.225       2.091
+West                               0.165                   0.274               0.209       0.442
+Mountain                           0.000                   0.000               0.000       0.000
+Pacific                            0.204                   0.306               0.248       0.450
+
+
+===============================
+TABLE A.1: Wealth Distribution Including Top-coded Values (Complete Dataset) 
+===============================
+
+
+Wealth Bracket         Count  Pct of Total 
+-----------------  ---------  -------------
+$0                  22909119  83.45%       
+$1-100               1270845  4.63%        
+$101-500              721788  2.63%        
+$501-1,000           1719343  6.26%        
+$1,001-5,000          439956  1.60%        
+$5,001-10,000         340355  1.24%        
+$10,001-50,000         31358  0.11%        
+$50,001-100,000        14352  0.05%        
+$100,001-500,000         395  0.00%        
+$500,001-999,996           0  0.00%        
+$999,997+               3375  0.01%        
+
+
+===============================
+TABLE A.2: Occupations with Most Top-coded Individuals (Complete Dataset) 
+===============================
+
+
+Occupation                                    Top-coded Count  Pct of All Top-coded 
+-------------------------------------------  ----------------  ---------------------
+Farmers (owners and tenants)                             1387  41.51%               
+N/A (blank)                                               650  19.46%               
+Managers                                                  179  5.36%                
+Laborers (n.e.c.)                                         177  5.30%                
+Carpenters                                                 81  2.42%                
+Operative and kindred workers (n.e.c.)                     74  2.21%                
+Retired                                                    61  1.83%                
+Farm laborers                                              52  1.56%                
+Other non-occupational response                            51  1.53%                
+Mechanics and repairmen (n.e.c.)                           44  1.32%                
+Shoemakers and repairers                                   42  1.26%                
+At school/student                                          35  1.05%                
+Blacksmiths                                                30  0.90%                
+Teachers (n.e.c.)                                          24  0.72%                
+Keeps house/housekeeping at home/housewife                 24  0.72%                
+Sailors and deck hands                                     22  0.66%                
+Physicians and surgeons                                    21  0.63%                
+Brickmasons                                                21  0.63%                
+Craftsmen and kindred workers (n.e.c.)                     20  0.60%                
+Other occupations                                         346  10.36%               
+
+
+===============================
+TABLE A.3: Regional Distribution of Top-coded Individuals (Complete Dataset) 
+===============================
+
+
+Region                Top-coded Count   Pct of All Top-coded
+-------------------  ----------------  ---------------------
+United States                    3341                 100.00
+North                            2642                  79.08
+Northeast                        1640                  49.09
+New England                       802                  24.00
+Middle Atlantic                   838                  25.08
+Midwest                          1002                  29.99
+East North Central                665                  19.90
+West North Central                337                  10.09
+South                             671                  20.08
+South Atlantic                    481                  14.40
+East South Central                119                   3.56
+West South Central                 71                   2.13
+West                               28                   0.84
+Mountain                           27                   0.81
+Pacific                             1                   0.03
+
+
+===============================
+TABLE A.4: Household Wealth Statistics by Region (South disaggregated, All Households) 
+===============================
+
+
+Region                     Mean Wealth   Median Wealth   Gini Coefficient
+------------------------  ------------  --------------  -----------------
+United States                      772             155              0.805
+North                              553             158              0.748
+South                             1410             156              0.851
+South (Confederate)               1576             168              0.851
+South (Non-Confederate)            861             117              0.833
+West                               551              83              0.811
+
+
+===============================
+TABLE A.5a: Household Wealth Statistics (Farm Household Heads, All Households) 
+===============================
+
+
+Region                Mean Wealth   Median Wealth   Gini Coefficient
+-------------------  ------------  --------------  -----------------
+United States                1012             318              0.743
+North                         667             343              0.620
+Northeast                     804             450              0.601
+New England                   694             400              0.582
+Middle Atlantic               852             473              0.606
+Midwest                       568             286              0.625
+East North Central            575             300              0.610
+West North Central            547             239              0.666
+South                        1751             260              0.823
+South Atlantic               1728             259              0.816
+East South Central           1707             250              0.824
+West South Central           1942             278              0.839
+West                          760             273              0.704
+Mountain                      190              80              0.696
+Pacific                      1051             517              0.635
+
+
+===============================
+TABLE A.5b: Household Wealth Statistics (Non-Farm Household Heads, All Households) 
+===============================
+
+
+Region                Mean Wealth   Median Wealth   Gini Coefficient
+-------------------  ------------  --------------  -----------------
+United States                 547              67              0.846
+North                         446              67              0.826
+Northeast                     451              60              0.837
+New England                   515              88              0.812
+Middle Atlantic               424              50              0.846
+Midwest                       436              88              0.802
+East North Central            410              85              0.796
+West North Central            536              95              0.816
+South                         937              61              0.875
+South Atlantic                769              40              0.886
+East South Central           1148             100              0.861
+West South Central           1138             108              0.861
+West                          563              67              0.831
+Mountain                      221              17              0.900
+Pacific                       625             100              0.815
+
+

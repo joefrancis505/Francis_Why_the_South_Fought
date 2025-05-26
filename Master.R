@@ -5,4 +5,6 @@ setwd(getSrcDirectory(function(dummy) {dummy}))
 cat("\014")
 
 source("Download_IPUMS.R")
-source("Replication_v2.R")
+source("Wealth.R")
+source("Download_NHGIS.R")
+source("Spatial_RDD.R")
